@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**JacobLef/JacobLef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science sophomore** passionate about backend systems, database internals, and cloud architecture.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- **Languages:** Java, TypeScript, Python
+- **Focus Areas:** Database engines, system design, data structures
+- **Tools:** Docker, Git, IntelliJ IDEA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Building
+Currently working on a **custom relational database engine** built from scratch in Java, featuring:
+- Custom B+ Tree implementation for efficient data storage
+- Banking application with multi-user support
+- Docker containerization and clean MVC architecture
+
+## 🎯 Goals
+- Backend-focused full-stack development
+- Network software engineering
+- Cloud architecture and scalable systems
+
+## 📫 Let's Connect
+Always interested in discussing databases, system design, and software architecture!
+
+---
+*Building tomorrow's systems, one data structure at a time* ⚡
