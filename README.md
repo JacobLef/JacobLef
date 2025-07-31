@@ -4,8 +4,8 @@ I'm a **Computer Science sophomore** passionate about backend systems, database 
 
 ## 🔧 Tech Stack
 - **Languages:** Java, TypeScript (T3 stack, React, Prisma, gRPC), Python
-- **Focus Areas:** Database engines, system design, data structures
-- **Tools:** Docker, Git, IntelliJ IDEA
+- **Focus Areas:** Database engines, system design, cloud and network engineering/architecture.
+- **Tools:** Docker, Git, Nvim/Vim, VSCode
 
 ## 🚀 What I'm Building
 Currently working on a **custom relational database engine** built from scratch in Java, featuring:
