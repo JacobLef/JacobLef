@@ -1,6 +1,9 @@
 # Hi there! 👋
 
-I'm a **Computer Science sophomore** passionate about backend systems, database internals, and cloud architecture.
+I'm a **Computer Science sophomore** at Northeastern University pursuing a Bachelor's in Computer Science with a **Software Concentration**, 
+planning to continue with a **Master's in Software Engineering Systems**. I'm passionate about building robust backend infrastructure, 
+diving deep into database internals, and architecting scalable cloud systems. Currently exploring the intersection of **systems programming** 
+and **distributed computing** while developing a strong foundation in software engineering principles.
 
 ## 🔧 Tech Stack
 - **Languages:** Java, TypeScript (T3 stack, React, Prisma, gRPC), Python
