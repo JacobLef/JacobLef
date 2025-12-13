@@ -79,9 +79,3 @@ Enterprise employee management system built with Spring Boot:
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jacoblefk@gmail.com)
 
 Always interested in discussing databases, system design, and software architecture. Feel free to reach out!
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JacobLef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
