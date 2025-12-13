@@ -52,3 +52,36 @@ Building and maintaining **Brain Game Center**, a cognitive research platform se
 **🏦 The Vault** — Custom Banking System  
 A relational database engine built from scratch in Java:
 - Custom B+ Tree indexing with O(log n) lookups
+- Multi-bank management with ACID-compliant transactions
+- Secure authentication and comprehensive audit logging
+- Docker containerization with clean MVC architecture
+
+**📊 Buzzy** — Business Management Platform  
+Enterprise employee management system built with Spring Boot:
+- RESTful APIs with role-based access control
+- Spring Data JPA with MySQL persistence
+- Factory, Builder, and Strategy design patterns
+- 85%+ test coverage with JUnit and Mockito
+
+---
+
+## 🎯 What I'm Looking For
+
+- **Co-ops** in backend engineering, infrastructure, or full-stack development
+- Opportunities to work on **distributed systems** and **cloud architecture**
+- Teams that value clean code, thoughtful design, and mentorship
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacoblefkowitz-dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jacoblefk@gmail.com)
+
+Always interested in discussing databases, system design, and software architecture. Feel free to reach out!
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JacobLef&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
